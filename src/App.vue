@@ -1,10 +1,11 @@
 <script setup>
 // script section
+import Home from '@/pages/Home.vue';
 </script>
 
 <template>
   <!-- template section  -->
-   Hello World!
+  <RouterView />
 </template>
 
 <style scoped>

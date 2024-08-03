@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1a2b3c4d5e",
+      "title": "Exploring the Wonders of the Ocean",
+      "description": "Dive deep into the mysteries of the ocean and discover the incredible marine life that inhabits it. From vibrant coral reefs to the dark abyss, the ocean is a world of wonder and beauty waiting to be explored."
+    },
+    {
+      "id": "2f3g4h5i6j",
+      "title": "The Art of Baking Bread",
+      "description": "Learn the secrets to baking perfect bread at home. This post covers everything from choosing the right flour to mastering the art of kneading and proofing."
+    },
+    {
+      "id": "3k4l5m6n7o",
+      "title": "Traveling the World on a Budget",
+      "description": "Discover tips and tricks for seeing the world without breaking the bank. From finding cheap flights to budget-friendly accommodations, this guide has you covered."
+    }
+  ]
+}
